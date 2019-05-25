@@ -1,0 +1,134 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "1",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "1",
+                "-p",
+                "P10"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "2",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "2",
+                "-p",
+                "SQL项目"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "3",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "3",
+                "-p",
+                "研发部"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "4",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "4",
+                "-p",
+                "研发部",
+                "3000"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "5",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "5",
+                "-p",
+                "P1"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "6",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "6",
+                "-p",
+                "张红"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "7",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "7",
+                "-p",
+                "P1",
+                "P2"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "8",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "8",
+                "-p",
+                "3000"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "9",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lab_2",
+            "args": [
+                "-q",
+                "9",
+                "-p",
+                "3",
+                "8"
+            ]
+        }
+    ]
+}

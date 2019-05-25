@@ -6,3 +6,6 @@ build/
 # files
 *.class
 *.jar
+.classpath
+.project
+.settings/org.eclipse.buildship.core.prefs
