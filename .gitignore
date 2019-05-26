@@ -1,11 +1,5 @@
-# dirs
-.gradle/
-bin/
-build/
+# Ignore Gradle project-specific cache directory
+.gradle
 
-# files
-*.class
-*.jar
-.classpath
-.project
-.settings/org.eclipse.buildship.core.prefs
+# Ignore Gradle build output directory
+build
